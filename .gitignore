@@ -1,0 +1,13 @@
+# Ignore specific Python files
+**/mutations.py
+**/queries.py
+**/schema.py
+**/types.py
+
+# Ignore specific apps
+app_blog/
+app_products/
+app_scheduling/
+app_services/
+
+Physiotherapy/settings_auth.py
